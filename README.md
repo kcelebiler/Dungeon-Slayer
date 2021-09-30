@@ -2,9 +2,15 @@
 
 First person monster slayer game. The goal is simple: Kill every creature without dying. 
 
+## Animation Schema
+
+This schema is being used in all enemies.
+
+![Animator Schema](Animator%20Schema.png)
+
 ## Gameplay
 
-[![Dungeon Slayer](https://img.youtube.com/vi/IbMWwdOJ27A/0.jpg)](https://www.youtube.com/watch?v=IbMWwdOJ27A)
+[![Dungeon Slayer](https://img.youtube.com/vi/jUsWWhGYTLo/0.jpg)](https://www.youtube.com/watch?v=jUsWWhGYTLo)
 
 ## Resources
 
